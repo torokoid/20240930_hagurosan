@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(20240920_005.JPG) center/cover no-repeat;
+background:url(20240930_003.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -146,21 +146,40 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">定年退職祝い、頂きました（浜田さん撮影）</span></h2>
+<h2><span class="yellow">以下沿道の彼岸花と展望台からの景色（霞んでます）</span></h2>
 
-
+<a href="20240930_001.JPG" target="_blank"><img src="20240930_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_002.JPG" target="_blank"><img src="20240930_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_003.JPG" target="_blank"><img src="20240930_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_004.JPG" target="_blank"><img src="20240930_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_005.JPG" target="_blank"><img src="20240930_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_006.JPG" target="_blank"><img src="20240930_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_007.JPG" target="_blank"><img src="20240930_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_008.JPG" target="_blank"><img src="20240930_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_009.JPG" target="_blank"><img src="20240930_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_010.JPG" target="_blank"><img src="20240930_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_011.JPG" target="_blank"><img src="20240930_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_012.JPG" target="_blank"><img src="20240930_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_013.JPG" target="_blank"><img src="20240930_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_014.JPG" target="_blank"><img src="20240930_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_015.JPG" target="_blank"><img src="20240930_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_016.JPG" target="_blank"><img src="20240930_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_017.JPG" target="_blank"><img src="20240930_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_018.JPG" target="_blank"><img src="20240930_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_019.JPG" target="_blank"><img src="20240930_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240930_020.JPG" target="_blank"><img src="20240930_020.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
-<h2><span class="yellow">お知らせのメール</span></h2>
+<h2><span class="yellow">11月16日(土)に開催される「梵天まつり」のポスターが貼られていました</span></h2>
 
+<a href="20240930_021.JPG" target="_blank"><img src="20240930_021.JPG" alt="サンプル画像" width="900" /></a>
 
-<br>
-<h2><span class="yellow">残暑厳しい中、水泳メンバーが集まりました<br>みんな元気そうです<br>では、又の再会を楽しみにしています！</span></h2>
+<br><!--
+<h2><span class="yellow">残暑厳しい中、水泳メンバーが集まりました<br>みんな元気そうです<br>では、又の再会を楽しみにしています！</span></h2>-->
 
 <br><br><br><br><br><br><br><br><br>
-<h2><span class="yellow">現役時代は物置になっていたテーブルを整理して、PC作業場を作りました。<br>
-  家庭内秘密基地ですね！</span></h2>
+
 
 
 
