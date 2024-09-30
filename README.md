@@ -146,13 +146,15 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以下沿道の彼岸花と展望台からの景色（霞んでます）</span></h2>
+<h2><span class="yellow">以下沿道の彼岸花</span></h2>
 
 <a href="20240930_001.JPG" target="_blank"><img src="20240930_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240930_002.JPG" target="_blank"><img src="20240930_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240930_003.JPG" target="_blank"><img src="20240930_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240930_004.JPG" target="_blank"><img src="20240930_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240930_005.JPG" target="_blank"><img src="20240930_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">展望台からの景色（霞んでます）</span></h2>
 <a href="20240930_006.JPG" target="_blank"><img src="20240930_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240930_007.JPG" target="_blank"><img src="20240930_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240930_008.JPG" target="_blank"><img src="20240930_008.JPG" alt="サンプル画像" width="900" /></a>
