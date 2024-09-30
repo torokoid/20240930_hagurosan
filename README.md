@@ -137,11 +137,10 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PYZGrQ1ZRoM?si=WK-o8W7L356tgguL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2><span class="yellow">羽黒山麓の集落エリアはすでに山道<br>
-  「羽黒山入り口」の看板から山に入ります！</span></h2>
+  「羽黒山頂」の看板から山に入ります！</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XW5U1i-KsRI?si=MyX6N124dAjegdjf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h2><span class="yellow">見晴台からの景色も堪能したので、山を下ります！</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1uAPPguDE_Q?si=o7UPbWCrK85HBwXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 
@@ -176,6 +175,10 @@ p.note { display: none; }
 <h2><span class="yellow">11月16日(土)に開催される「梵天まつり」のポスターが貼られていました</span></h2>
 
 <a href="20240930_021.JPG" target="_blank"><img src="20240930_021.JPG" alt="サンプル画像" width="900" /></a>
+
+
+<h2><span class="yellow">見晴台からの景色も堪能したので、山を下ります！</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1uAPPguDE_Q?si=o7UPbWCrK85HBwXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><!--
 <h2><span class="yellow">残暑厳しい中、水泳メンバーが集まりました<br>みんな元気そうです<br>では、又の再会を楽しみにしています！</span></h2>-->
